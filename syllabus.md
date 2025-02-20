@@ -25,7 +25,7 @@ This course will cover a range of essential topics in machine learning and data 
 
 ## **Homework Assignments**
 
-Throughout the course, students will complete several homework assignments aimed at reinforcing the concepts covered in lectures and reading materials (See the [homework page](https://dbsbu.github.io//assignments/), which will be updated during the course). The due dates for these assignments will be posted on this website.
+Throughout the course, students will complete several homework assignments aimed at reinforcing the concepts covered in lectures and reading materials (See the [homework page](https://ta-sbu.github.io//assignments/), which will be updated during the course). The due dates for these assignments will be posted on this website.
 
 Please follow the instructions to turn in your homework:
 - Homeworks must be submitted electronically as PDF files.
@@ -36,7 +36,7 @@ Please follow the instructions to turn in your homework:
 
 ## **Exams**
 
-The course will include **two exams**. Both exams will assess the required readings and topics covered in class. The first exam will be an "in-class" [midterm](https://dbsbu.github.io//exams/midterm), while the second will be a [final exam](https://dbsbu.github.io//exams/final) scheduled during the University's final examination period at the end of the semester.
+The course will include **two exams**. Both exams will assess the required readings and topics covered in class. The first exam will be an "in-class" [midterm](https://ta-sbu.github.io//exams/midterm), while the second will be a [final exam](https://ta-sbu.github.io//exams/final) scheduled during the University's final examination period at the end of the semester.
 
 **If you need to miss the midterm test due to illness or a family affliction, please contact me by email. A make-up exam for the midterm might be organized.**
 {: 	.text-green-200 }
@@ -79,7 +79,7 @@ You are encouraged to use Generative AI tools like ChatGPT for general coding-re
 {: 	.text-red-300 }
 There is no single textbook for this class. Instead, the material will be drawn from various texts and sources.
 
-[Lecture notes](https://dbsbu.github.io//Notes/), [homework assignments](https://dbsbu.github.io//assignments/) and their solutions, and other supplementary materials will be made available on this website throughout the course. 
+[Lecture notes](https://ta-sbu.github.io//Notes/), [homework assignments](https://ta-sbu.github.io//assignments/) and their solutions, and other supplementary materials will be made available on this website throughout the course. 
 
 
 
