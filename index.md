@@ -36,15 +36,9 @@ By the end of the course, students will have developed a comprehensive understan
 ### Learning Goals
 
 Upon successful completion of this course, the student will be able to:
-
-1.  **Apply data science and analytics techniques** to extract meaningful insights from financial datasets.
-2.  **Construct and interpret predictive models** using machine learning algorithms to forecast financial variables such as prices, sales, and risk.
-3.  **Build and manage end-to-end machine learning workflows**, encompassing data transformation, model training, prediction, and evaluation.
-4.  **Perform exploratory data analysis** and **feature engineering** to enhance the performance and accuracy of financial models.
-5.  **Assess the results of machine learning models** in finance, including performance evaluation, overfitting detection, and bias-variance tradeoff analysis.
-6.  **Implement data-driven solutions** for various financial applications, such as product pricing, sales forecasting, market trend analysis, risk management, and portfolio optimization.
-7.  **Utilize modern programming tools and libraries (e.g., Python, Pandas, Scikit-learn)** for financial data analysis and machine learning.
-8.  **Understand the ethical considerations** and **potential biases** in financial machine learning models.
+1.  **Implement data-driven solutions** for various financial applications, such as product pricing, sales forecasting, market trend analysis, risk management, and portfolio optimization.
+2.  **Utilize modern programming tools and libraries (e.g., Python, Pandas, Scikit-learn)** for financial data analysis and machine learning.
+3.  **Understand the ethical considerations** and **potential biases** in financial machine learning models.
 
 ### Structure of the course
 
