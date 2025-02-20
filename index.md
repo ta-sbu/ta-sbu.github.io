@@ -47,9 +47,6 @@ Upon successful completion of this course, the student will be able to:
 8.  **Understand the ethical considerations** and **potential biases** in financial machine learning models.
 9. **Develop competitive strategies** by leveraging data science and analytics in the financial sector.
 
----
-Answer from Perplexity: pplx.ai/share
-
 ### Structure of the course
 
  - Meets Twice Weekly
