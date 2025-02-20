@@ -23,7 +23,7 @@ seo:
 
 In the era of Big Data, organizations have unprecedented access to vast amounts of information, and those that can effectively harness this data to uncover meaningful patterns and make data-driven decisions gain a significant competitive edge. This course explores the interdisciplinary field of analytics in finance, combining data science, machine learning, and predictive modeling to extract insights and make accurate predictions.
 
-The course emphasizes the power of models in helping us understand complex, large, or dynamic financial data. These models not only provide insights but also predict important variables such as price, sales, and risk. For instance, they can forecast future values like next quarter's product sales, which are crucial for strategic decision-making in finance.
+The course emphasizes the power of models in helping us understand financial data. These models not only provide insights but also predict important variables such as price, sales, and risk. For instance, they can forecast future values like next quarter's product sales, which are crucial for strategic decision-making in finance.
 
 Students will delve into both foundational and cutting-edge techniques in data science and analytics, with a focus on their applications in finance. The curriculum covers the entire machine learning workflow, including data transformation, model training, prediction, and evaluation. Key topics include exploratory data analysis, feature engineering, and result assessment, with particular attention to performance metrics, potential overfitting, and the bias-variance tradeoff.
 
