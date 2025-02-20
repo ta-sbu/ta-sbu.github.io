@@ -45,7 +45,6 @@ Upon successful completion of this course, the student will be able to:
 6.  **Implement data-driven solutions** for various financial applications, such as product pricing, sales forecasting, market trend analysis, risk management, and portfolio optimization.
 7.  **Utilize modern programming tools and libraries (e.g., Python, Pandas, Scikit-learn)** for financial data analysis and machine learning.
 8.  **Understand the ethical considerations** and **potential biases** in financial machine learning models.
-9. **Develop competitive strategies** by leveraging data science and analytics in the financial sector.
 
 ### Structure of the course
 
