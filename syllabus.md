@@ -6,10 +6,22 @@ description: Course policies and information.
 
 # Syllabus
 
-## **Topics Covered**
 
+### Topics Covered
 
-## **Structure of the course**
+This course will cover a range of essential topics in machine learning and data analytics specifically tailored for the finance sector, including:
+
+1. **Data Analytics Fundamentals**
+2. **Data Preprocessing and Cleaning**
+3. **Exploratory Data Analysis (EDA)**
+4. **Feature Engineering**
+5. **Predictive Modeling Techniques**
+6. **Machine Learning Workflows**
+7. **Time Series Analysis**
+8. **Advanced Machine Learning Techniques**
+9. **Model Evaluation and Performance Metrics**
+10. **Applications in Finance**
+11. **Ethics in Data Science**
 
 ## **Homework Assignments**
 
