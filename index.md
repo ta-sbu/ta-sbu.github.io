@@ -53,7 +53,7 @@ Answer from Perplexity: pplx.ai/share
 ### Structure of the course
 
  - Meets Twice Weekly
-    - Saturday, Monday 13:00 - 14:30
+    - Sunday, Tuesday 15:00 - 17:00
  - There will be several assignments throughout the course for students to practice the material covered.
 
 
