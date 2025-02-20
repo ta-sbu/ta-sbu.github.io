@@ -37,7 +37,7 @@ By the end of the course, students will have developed a comprehensive understan
 
 Upon successful completion of this course, the student will be able to:
 
-1.  **Apply data science and analytics techniques** to extract meaningful insights from complex financial datasets.
+1.  **Apply data science and analytics techniques** to extract meaningful insights from financial datasets.
 2.  **Construct and interpret predictive models** using machine learning algorithms to forecast financial variables such as prices, sales, and risk.
 3.  **Build and manage end-to-end machine learning workflows**, encompassing data transformation, model training, prediction, and evaluation.
 4.  **Perform exploratory data analysis** and **feature engineering** to enhance the performance and accuracy of financial models.
