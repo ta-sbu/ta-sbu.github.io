@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Technical Analysis
-tagline: Technical Analysis (Machine Learning and Data Analytics in Finance)  
+tagline: Technical Analysis (Machine Learning and Predictive Analytics in Finance)  
 description: Shahid Beheshti University |  Faculty of Management and accounting | 1403_2
 author: Milad Vazan
 #baseurl: '/' # the subpath of your site, e.g. /blog
